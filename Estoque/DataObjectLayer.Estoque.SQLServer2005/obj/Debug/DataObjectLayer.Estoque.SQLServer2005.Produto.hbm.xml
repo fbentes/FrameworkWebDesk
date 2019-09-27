@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="DataObjectLayer.Estoque" assembly="DataObjectLayer.Estoque">
+
+	<class name="Produto" table="Produto">
+
+		<id name="Id" type="Int32" access="field.lowercase" unsaved-value="-1">
+      <generator class="identity"/>
+    </id>
+
+    <many-to-one name="GrupoProduto"  column="GrupoProduto" class="GrupoProduto" lazy="false"/>
+
+    <property name="Nome"                type="String" length="50" not-null="true"/>
+    <property name="PrecoUnitario"       type="Decimal"/>
+    <property name="QuantidadeEstoque"   type="Int32"/>
+    <property name="Ativo"               type="YesNo"/>
+
+  </class>
+
+</hibernate-mapping>

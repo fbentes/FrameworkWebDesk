@@ -1,0 +1,80 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{97999DC4-5532-481E-9B7B-DE804983D67C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataObjectLayer.Business</RootNamespace>
+    <AssemblyName>DataObjectLayer.Business</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DataObjectLayer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DataObjectLayer\bin\Debug\DataObjectLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Collections\EstadoCivilCollection.cs" />
+    <Compile Include="Collections\FormaParcelamentoCollection.cs" />
+    <Compile Include="Collections\IdiomaCivilCollection.cs" />
+    <Compile Include="Collections\NivelEscolaridadeCollection.cs" />
+    <Compile Include="Collections\SexoCollection.cs" />
+    <Compile Include="Collections\SimNaoCollection.cs" />
+    <Compile Include="Collections\StatusCollection.cs" />
+    <Compile Include="Collections\TipoDespesaCollection.cs" />
+    <Compile Include="Collections\UfCollection.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rules\IValidationBusiness.cs" />
+    <Compile Include="Rules\ValidationCep.cs" />
+    <Compile Include="Rules\ValidationCpf.cs" />
+    <Compile Include="Rules\ValidationDate.cs" />
+    <Compile Include="Rules\ValidationDecimal.cs" />
+    <Compile Include="Utilities\AllTrim.cs" />
+    <Compile Include="Utilities\Comparer.cs" />
+    <Compile Include="Utilities\ComparerReverse.cs" />
+    <Compile Include="Utilities\Correio.cs" />
+    <Compile Include="Utilities\Criptography.cs" />
+    <Compile Include="Utilities\EMail.cs" />
+    <Compile Include="Utilities\Logradouro.cs" />
+    <Compile Include="Utilities\OrderProperty.cs" />
+    <Compile Include="Utilities\DateRange.cs" />
+    <Compile Include="Utilities\RandomValue.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,50 @@
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\DataObjectLayer.View.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\DataObjectLayer.View.pdb
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\DataObjectLayer.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\NHibernate.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\Iesi.Collections.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\DataObjectLayer.Exceptions.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\log4net.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\Castle.DynamicProxy.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\NHibernate.xml
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\Iesi.Collections.xml
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\DataObjectLayer.pdb
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\DataObjectLayer.Exceptions.pdb
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\log4net.xml
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\Castle.DynamicProxy.xml
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.TextBoxDecimal.resources
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.FrmBaseRegister.resources
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.Properties.Resources.resources
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.UctEntityList.resources
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.csproj.GenerateResource.Cache
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.pdb
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\DataObjectLayer.View.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\DataObjectLayer.View.pdb
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\DataObjectLayer.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\log4net.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\Iesi.Collections.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\NHibernate.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\Castle.DynamicProxy.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\DataObjectLayer.Exceptions.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\log4net.xml
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\Iesi.Collections.xml
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\DataObjectLayer.pdb
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\NHibernate.xml
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\Castle.DynamicProxy.xml
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\bin\Debug\DataObjectLayer.Exceptions.pdb
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\ResolveAssemblyReference.cache
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.TextBoxDecimal.resources
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.UltraGridEntity.resources
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.FrmBaseRegister.resources
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.Properties.Resources.resources
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.UctComboBoxButton.resources
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.UctComboBoxButtonEntity.resources
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.UctDateTimePicker.resources
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.UctEntityList.resources
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.UctPeriodoDatas.resources
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.csproj.GenerateResource.Cache
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.dll.licenses
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer.View\obj\Debug\DataObjectLayer.View.pdb

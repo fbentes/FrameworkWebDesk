@@ -1,0 +1,17 @@
+bin\Debug\DataObjectLayer.dll
+bin\Debug\DataObjectLayer.pdb
+bin\Debug\NHibernate.dll
+bin\Debug\Nullables.NHibernate.dll
+bin\Debug\Iesi.Collections.dll
+bin\Debug\log4net.dll
+bin\Debug\Nullables.dll
+bin\Debug\Castle.DynamicProxy.dll
+bin\Debug\NHibernate.xml
+bin\Debug\Iesi.Collections.xml
+bin\Debug\log4net.xml
+bin\Debug\Nullables.xml
+bin\Debug\Castle.DynamicProxy.xml
+bin\Debug\Nullables.NHibernate.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataObjectLayer.dll
+obj\Debug\DataObjectLayer.pdb

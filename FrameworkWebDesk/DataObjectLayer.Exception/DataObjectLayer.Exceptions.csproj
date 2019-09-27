@@ -1,0 +1,69 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0EC6AD3F-885B-4E86-90E8-E19145A60636}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataObjectLayer.Exceptions</RootNamespace>
+    <AssemblyName>DataObjectLayer.Exceptions</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CloseSessionException.cs" />
+    <Compile Include="AddEntityChildException.cs" />
+    <Compile Include="Validators\PropertyListException.cs" />
+    <Compile Include="Validators\PropertyException.cs" />
+    <Compile Include="Validators\Property.cs" />
+    <Compile Include="ValidationException.cs" />
+    <Compile Include="HQLGeneratorException.cs" />
+    <Compile Include="RemoveEntityChildException.cs" />
+    <Compile Include="FilterEntityException.cs" />
+    <Compile Include="OrderOperationInvalidException.cs" />
+    <Compile Include="EntityParentException.cs" />
+    <Compile Include="EntityNoConstructorException.cs" />
+    <Compile Include="EntitySaveOrUpdateException.cs" />
+    <Compile Include="EntityNotFoundException.cs" />
+    <Compile Include="EntityNullException.cs" />
+    <Compile Include="EntityFieldNotFoundException.cs" />
+    <Compile Include="NotExistFactoryKeyException.cs" />
+    <Compile Include="NotExistSessionKeyException.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

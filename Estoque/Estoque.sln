@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer.Estoque.SQLServer2005", "DataObjectLayer.Estoque.SQLServer2005\DataObjectLayer.Estoque.SQLServer2005.csproj", "{2E007D56-AD76-44F7-A21E-7929DA380B6B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer.Estoque", "DataObjectLayer.Estoque\DataObjectLayer.Estoque.csproj", "{EF44AAB0-27DC-4535-A6DC-DCB5F3DC5E2C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer.View.Win.Estoque", "DataObjectLayer.View.Win.Estoque\DataObjectLayer.View.Win.Estoque.csproj", "{14355F24-7C98-4F4D-9ECB-4823CE5B1562}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer.View.Web.Estoque", "DataObjectLayer.View.Web.Estoque\DataObjectLayer.View.Web.Estoque.csproj", "{F30B0734-7C28-4F10-8467-26803496A57F}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E007D56-AD76-44F7-A21E-7929DA380B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E007D56-AD76-44F7-A21E-7929DA380B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E007D56-AD76-44F7-A21E-7929DA380B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E007D56-AD76-44F7-A21E-7929DA380B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF44AAB0-27DC-4535-A6DC-DCB5F3DC5E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF44AAB0-27DC-4535-A6DC-DCB5F3DC5E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF44AAB0-27DC-4535-A6DC-DCB5F3DC5E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF44AAB0-27DC-4535-A6DC-DCB5F3DC5E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14355F24-7C98-4F4D-9ECB-4823CE5B1562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14355F24-7C98-4F4D-9ECB-4823CE5B1562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14355F24-7C98-4F4D-9ECB-4823CE5B1562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14355F24-7C98-4F4D-9ECB-4823CE5B1562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30B0734-7C28-4F10-8467-26803496A57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30B0734-7C28-4F10-8467-26803496A57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30B0734-7C28-4F10-8467-26803496A57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30B0734-7C28-4F10-8467-26803496A57F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="DataObjectLayer.Estoque" assembly="DataObjectLayer.Estoque">
+
+	<class name="GrupoProduto" table="GrupoProduto">
+
+		<id name="Id" type="Int32" access="field.lowercase" unsaved-value="-1">
+      <generator class="identity"/>
+    </id>
+    <property name="Nome" type="String" length="50" not-null="true"/>
+
+  </class>
+
+</hibernate-mapping>

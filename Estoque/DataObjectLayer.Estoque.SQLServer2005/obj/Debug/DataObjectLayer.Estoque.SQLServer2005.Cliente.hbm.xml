@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="DataObjectLayer.Estoque" assembly="DataObjectLayer.Estoque">
+
+  <joined-subclass name="Cliente" table="CLIENTE" extends="Pessoa">
+
+    <key column="Pessoa"/>
+    <property name="Cpf"            type="String" length="14" />
+    <property name="Rg"             type="String" length="10" />
+    <property name="DataNascimento" type="DateTime"/>
+    <property name="Sexo"           type="String" length="1" />
+    <property name="Ativo"          type="YesNo"/>
+    <property name="Anexo"          type="BinaryBlob"/>
+
+</joined-subclass>
+
+</hibernate-mapping>

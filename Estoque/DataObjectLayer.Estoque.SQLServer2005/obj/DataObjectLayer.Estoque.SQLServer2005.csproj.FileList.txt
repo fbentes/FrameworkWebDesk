@@ -1,0 +1,8 @@
+bin\Debug\DataObjectLayer.Estoque.SQLServer2005.dll.config
+bin\Debug\DataObjectLayer.Estoque.SQLServer2005.dll
+bin\Debug\DataObjectLayer.Estoque.SQLServer2005.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataObjectLayer.Estoque.SQLServer2005.Cliente.hbm.xml
+obj\Debug\DataObjectLayer.Estoque.SQLServer2005.Pessoa.hbm.xml
+obj\Debug\DataObjectLayer.Estoque.SQLServer2005.dll
+obj\Debug\DataObjectLayer.Estoque.SQLServer2005.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataObjectLayer">
+</Property><Property Name="Solution File" Value="C:\Projetos dotNET\FrameworkWithNHibernate\DataObjectLayer\DataObjectLayer.sln">
+</Property><Property Name="Date" Value="sexta-feira, 30 de janeiro de 2009">
+</Property><Property Name="Time" Value="16:47">
+</Property></Properties><Event ErrorLevel="0" Project="DataObjectLayer" Source="DataObjectLayer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataObjectLayer" Source="DataObjectLayer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.Estoque.Oracle" Source="..\DataObjectLayer.Estoque.Oracle\DataObjectLayer.Estoque.Oracle.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataObjectLayer.Estoque.Oracle" Source="..\DataObjectLayer.Estoque.Oracle\DataObjectLayer.Estoque.Oracle.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.Estoque.SQLServer2005" Source="..\DataObjectLayer.Estoque.SQLServer2005\DataObjectLayer.Estoque.SQLServer2005.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataObjectLayer.Estoque.SQLServer2005" Source="..\DataObjectLayer.Estoque.SQLServer2005\DataObjectLayer.Estoque.SQLServer2005.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.Exceptions" Source="..\DataObjectLayer.Exception\DataObjectLayer.Exceptions.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataObjectLayer.Exceptions" Source="..\DataObjectLayer.Exception\DataObjectLayer.Exceptions.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.Estoque" Source="..\DataObjectLayer.Estoque\DataObjectLayer.Estoque.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataObjectLayer.Estoque" Source="..\DataObjectLayer.Estoque\DataObjectLayer.Estoque.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.Estoque.Access2003" Source="..\DataObjectLayer.Estoque.Access2003\DataObjectLayer.Estoque.Access2003.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataObjectLayer.Estoque.Access2003" Source="..\DataObjectLayer.Estoque.Access2003\DataObjectLayer.Estoque.Access2003.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.View" Source="..\DataObjectLayer.View\DataObjectLayer.View.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataObjectLayer.View" Source="..\DataObjectLayer.View\DataObjectLayer.View.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.View.Estoque" Source="..\DataObjectLayer.View.Estoque\DataObjectLayer.View.Estoque.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataObjectLayer.View.Estoque" Source="..\DataObjectLayer.View.Estoque\DataObjectLayer.View.Estoque.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.Business" Source="..\DataObjectLayer.Business\DataObjectLayer.Business.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataObjectLayer.Business" Source="..\DataObjectLayer.Business\DataObjectLayer.Business.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DataObjectLayer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DataObjectLayer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer" Source="DataObjectLayer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.Estoque.Oracle" Source="..\DataObjectLayer.Estoque.Oracle\DataObjectLayer.Estoque.Oracle.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.Estoque.SQLServer2005" Source="..\DataObjectLayer.Estoque.SQLServer2005\DataObjectLayer.Estoque.SQLServer2005.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.Exceptions" Source="..\DataObjectLayer.Exception\DataObjectLayer.Exceptions.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.Estoque" Source="..\DataObjectLayer.Estoque\DataObjectLayer.Estoque.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.Estoque.Access2003" Source="..\DataObjectLayer.Estoque.Access2003\DataObjectLayer.Estoque.Access2003.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.View" Source="..\DataObjectLayer.View\DataObjectLayer.View.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.View.Estoque" Source="..\DataObjectLayer.View.Estoque\DataObjectLayer.View.Estoque.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataObjectLayer.Business" Source="..\DataObjectLayer.Business\DataObjectLayer.Business.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

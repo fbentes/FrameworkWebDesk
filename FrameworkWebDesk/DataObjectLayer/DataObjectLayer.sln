@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72905B2A-12B9-4072-8A80-D1BA3962D307}"
+	ProjectSection(SolutionItems) = preProject
+		DataObjectLayer.vsmdi = DataObjectLayer.vsmdi
+		localtestrun.testrunconfig = localtestrun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer", "DataObjectLayer.csproj", "{81494F5C-63B1-4786-9CE0-6024A89078EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer.Estoque.Oracle", "..\DataObjectLayer.Estoque.Oracle\DataObjectLayer.Estoque.Oracle.csproj", "{F18B4846-3D95-4B0A-9DC9-1230ADE169FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer.Estoque.SQLServer2005", "..\DataObjectLayer.Estoque.SQLServer2005\DataObjectLayer.Estoque.SQLServer2005.csproj", "{13E64EAB-3C3D-4720-B7CE-CE488D785D6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer.Exceptions", "..\DataObjectLayer.Exception\DataObjectLayer.Exceptions.csproj", "{0EC6AD3F-885B-4E86-90E8-E19145A60636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer.Estoque", "..\DataObjectLayer.Estoque\DataObjectLayer.Estoque.csproj", "{9CC235B2-8AA1-4FD4-9264-1E7F0F03F57C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer.Estoque.Access2003", "..\DataObjectLayer.Estoque.Access2003\DataObjectLayer.Estoque.Access2003.csproj", "{2DDC7460-B2E5-4A72-B2A6-6ACEBC052CC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer.View", "..\DataObjectLayer.View\DataObjectLayer.View.csproj", "{D8C158FD-C00A-4624-8C61-7A047F9FE610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer.View.Estoque", "..\DataObjectLayer.View.Estoque\DataObjectLayer.View.Estoque.csproj", "{F1E4B32A-9F30-46C1-B8F6-0C2062A5CFAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer.Business", "..\DataObjectLayer.Business\DataObjectLayer.Business.csproj", "{97999DC4-5532-481E-9B7B-DE804983D67C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLayer.WebView.Estoque", "..\DataObjectLayer.WebView.Estoque\DataObjectLayer.WebView.Estoque.csproj", "{78FBB85E-0A30-471A-B54D-61869F67B35F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81494F5C-63B1-4786-9CE0-6024A89078EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81494F5C-63B1-4786-9CE0-6024A89078EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81494F5C-63B1-4786-9CE0-6024A89078EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81494F5C-63B1-4786-9CE0-6024A89078EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18B4846-3D95-4B0A-9DC9-1230ADE169FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18B4846-3D95-4B0A-9DC9-1230ADE169FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18B4846-3D95-4B0A-9DC9-1230ADE169FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18B4846-3D95-4B0A-9DC9-1230ADE169FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E64EAB-3C3D-4720-B7CE-CE488D785D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E64EAB-3C3D-4720-B7CE-CE488D785D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E64EAB-3C3D-4720-B7CE-CE488D785D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E64EAB-3C3D-4720-B7CE-CE488D785D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC6AD3F-885B-4E86-90E8-E19145A60636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC6AD3F-885B-4E86-90E8-E19145A60636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC6AD3F-885B-4E86-90E8-E19145A60636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC6AD3F-885B-4E86-90E8-E19145A60636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC235B2-8AA1-4FD4-9264-1E7F0F03F57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC235B2-8AA1-4FD4-9264-1E7F0F03F57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC235B2-8AA1-4FD4-9264-1E7F0F03F57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC235B2-8AA1-4FD4-9264-1E7F0F03F57C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDC7460-B2E5-4A72-B2A6-6ACEBC052CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDC7460-B2E5-4A72-B2A6-6ACEBC052CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDC7460-B2E5-4A72-B2A6-6ACEBC052CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDC7460-B2E5-4A72-B2A6-6ACEBC052CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C158FD-C00A-4624-8C61-7A047F9FE610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C158FD-C00A-4624-8C61-7A047F9FE610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C158FD-C00A-4624-8C61-7A047F9FE610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C158FD-C00A-4624-8C61-7A047F9FE610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E4B32A-9F30-46C1-B8F6-0C2062A5CFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E4B32A-9F30-46C1-B8F6-0C2062A5CFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E4B32A-9F30-46C1-B8F6-0C2062A5CFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E4B32A-9F30-46C1-B8F6-0C2062A5CFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97999DC4-5532-481E-9B7B-DE804983D67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97999DC4-5532-481E-9B7B-DE804983D67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97999DC4-5532-481E-9B7B-DE804983D67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97999DC4-5532-481E-9B7B-DE804983D67C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78FBB85E-0A30-471A-B54D-61869F67B35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FBB85E-0A30-471A-B54D-61869F67B35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FBB85E-0A30-471A-B54D-61869F67B35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FBB85E-0A30-471A-B54D-61869F67B35F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

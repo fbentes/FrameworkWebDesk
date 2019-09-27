@@ -1,0 +1,85 @@
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\DataObjectLayer.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\DataObjectLayer.pdb
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\DataObjectLayer.Exceptions.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\NHibernate.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\Iesi.Collections.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\log4net.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\Castle.DynamicProxy.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\NHibernate.xml
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\Iesi.Collections.xml
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\DataObjectLayer.Exceptions.pdb
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\log4net.xml
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\Castle.DynamicProxy.xml
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\obj\Debug\DataObjectLayer.dll
+C:\Users\fabio\Projetos\FrameworkWithNHibernate\DataObjectLayer\obj\Debug\DataObjectLayer.pdb
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\DataObjectLayer.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\DataObjectLayer.pdb
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\DataObjectLayer.Exceptions.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\NHibernate.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\Nullables.NHibernate.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\Iesi.Collections.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\log4net.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\Nullables.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\Castle.DynamicProxy.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\NHibernate.xml
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\Iesi.Collections.xml
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\DataObjectLayer.Exceptions.pdb
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\log4net.xml
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\Nullables.xml
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\Castle.DynamicProxy.xml
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\bin\Debug\Nullables.NHibernate.xml
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\obj\Debug\DataObjectLayer.dll
+D:\! A R Q U I V O S\Projetos\FrameworkWithNHibernate\DataObjectLayer\obj\Debug\DataObjectLayer.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\DataObjectLayer.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\DataObjectLayer.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\NHibernate.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\Nullables.NHibernate.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\Iesi.Collections.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\log4net.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\Nullables.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\Castle.DynamicProxy.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\NHibernate.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\Iesi.Collections.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\log4net.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\Nullables.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\Castle.DynamicProxy.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\bin\Debug\Nullables.NHibernate.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\obj\Debug\DataObjectLayer.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkDotNetWebDesk\DataObjectLayer\obj\Debug\DataObjectLayer.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\DataObjectLayer.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\DataObjectLayer.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\NHibernate.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\Nullables.NHibernate.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\Iesi.Collections.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\log4net.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\Nullables.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\Castle.DynamicProxy.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\NHibernate.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\Iesi.Collections.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\log4net.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\Nullables.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\Castle.DynamicProxy.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\bin\Debug\Nullables.NHibernate.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\obj\Debug\DataObjectLayer.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\FrameworkWebDesk\DataObjectLayer\obj\Debug\DataObjectLayer.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\DataObjectLayer.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\DataObjectLayer.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\NHibernate.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\Nullables.NHibernate.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\Iesi.Collections.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\log4net.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\Nullables.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\Castle.DynamicProxy.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\NHibernate.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\Iesi.Collections.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\log4net.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\Nullables.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\Castle.DynamicProxy.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\bin\Debug\Nullables.NHibernate.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\obj\Debug\DataObjectLayer.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\FrameworkWebDesk\DataObjectLayer\obj\Debug\DataObjectLayer.pdb

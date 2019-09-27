@@ -1,0 +1,5 @@
+C:\Projetos dotNET\FrameworkWithNHibernate\DataObjectLayer.Exception\bin\Debug\DataObjectLayer.Exceptions.dll
+C:\Projetos dotNET\FrameworkWithNHibernate\DataObjectLayer.Exception\bin\Debug\DataObjectLayer.Exceptions.pdb
+C:\Projetos dotNET\FrameworkWithNHibernate\DataObjectLayer.Exception\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos dotNET\FrameworkWithNHibernate\DataObjectLayer.Exception\obj\Debug\DataObjectLayer.Exceptions.dll
+C:\Projetos dotNET\FrameworkWithNHibernate\DataObjectLayer.Exception\obj\Debug\DataObjectLayer.Exceptions.pdb

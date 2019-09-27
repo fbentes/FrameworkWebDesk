@@ -1,0 +1,17 @@
+bin\Debug\DataObjectLayer.View.Controls.dll
+bin\Debug\DataObjectLayer.View.Controls.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataObjectLayer.View.Controls.dll
+obj\Debug\DataObjectLayer.View.Controls.pdb
+bin\Debug\DataObjectLayer.dll
+bin\Debug\NHibernate.dll
+bin\Debug\Iesi.Collections.dll
+bin\Debug\log4net.dll
+bin\Debug\DataObjectLayer.Exceptions.dll
+bin\Debug\Castle.DynamicProxy.dll
+bin\Debug\NHibernate.xml
+bin\Debug\Iesi.Collections.xml
+bin\Debug\log4net.xml
+bin\Debug\DataObjectLayer.pdb
+bin\Debug\DataObjectLayer.Exceptions.pdb
+bin\Debug\Castle.DynamicProxy.xml

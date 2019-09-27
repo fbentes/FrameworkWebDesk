@@ -1,0 +1,86 @@
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\obj\Debug\DataObjectLayer.View.Estoque.exe
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\obj\Debug\DataObjectLayer.View.Estoque.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.View.Estoque.exe
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.View.Estoque.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.Business.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.Estoque.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.Estoque.SQLServer2005.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.View.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.View.Win.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\Iesi.Collections.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\log4net.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\NHibernate.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\Castle.DynamicProxy.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.View.Win.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.Estoque.SQLServer2005.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.Business.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\Iesi.Collections.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\log4net.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\NHibernate.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.View.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\DataObjectLayer.Estoque.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\bin\Debug\Castle.DynamicProxy.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.FrmCadastroCliente.resources
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\obj\Debug\DataObjectLayer.View.Estoque.Properties.Resources.resources
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.csproj.GenerateResource.Cache
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.FrmCadastroCliente.resources
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.FrmCadastroGrupoProduto.resources
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.FrmCadastroProduto.resources
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.Properties.Resources.resources
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.csproj.GenerateResource.Cache
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.View.Win.Estoque.exe
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.View.Win.Estoque.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.Business.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.Estoque.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.Estoque.SQLServer2005.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.View.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.View.Win.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\Iesi.Collections.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\log4net.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\NHibernate.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\Castle.DynamicProxy.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.View.Win.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.Estoque.SQLServer2005.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.Business.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\Iesi.Collections.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\log4net.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\NHibernate.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.View.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.Estoque.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\Castle.DynamicProxy.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.exe
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.FrmCadastroCliente.resources
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.Properties.Resources.resources
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.csproj.GenerateResource.Cache
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.View.Win.Estoque.exe
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.View.Win.Estoque.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.Business.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.Estoque.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.Estoque.SQLServer2005.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.View.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.View.Win.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\Iesi.Collections.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\log4net.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\NHibernate.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\Castle.DynamicProxy.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.View.Win.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.Estoque.SQLServer2005.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.Business.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\Iesi.Collections.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\log4net.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\NHibernate.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.View.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\DataObjectLayer.Estoque.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\bin\Debug\Castle.DynamicProxy.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.exe
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.View.Win.Estoque\obj\Debug\DataObjectLayer.View.Win.Estoque.pdb

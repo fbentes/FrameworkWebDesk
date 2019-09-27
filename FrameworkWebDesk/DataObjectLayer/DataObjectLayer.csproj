@@ -1,0 +1,130 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{81494F5C-63B1-4786-9CE0-6024A89078EA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataObjectLayer</RootNamespace>
+    <AssemblyName>DataObjectLayer</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NHibernate, Version=1.2.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\NHibernate\bin\net-2.0\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Nullables.NHibernate, Version=1.2.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\NHibernate\bin\net-2.0\Nullables.NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Association.cs" />
+    <Compile Include="Attributes\SingletonAttribute.cs" />
+    <Compile Include="Attributes\EntityManagerAttribute.cs" />
+    <Compile Include="Attributes\OnlyDateAttribute.cs" />
+    <Compile Include="Attributes\NotClonablePropertyAttribute.cs" />
+    <Compile Include="Attributes\NotNullPropertyAttribute.cs" />
+    <Compile Include="Attributes\EntityFieldOrderAttribute.cs" />
+    <Compile Include="Attributes\EntityChildAttribute.cs" />
+    <Compile Include="Attributes\EntityListChildAttribute.cs" />
+    <Compile Include="Attributes\EntityParentAttribute.cs" />
+    <Compile Include="Attributes\WidthPropertyAttribute.cs" />
+    <Compile Include="Attributes\DisplayNamePropertyAttribute.cs" />
+    <Compile Include="Attributes\OrderPropertyAttribute.cs" />
+    <Compile Include="Attributes\PropertyInvisibleAttribute.cs" />
+    <Compile Include="Cloner.cs" />
+    <Compile Include="Collections\EntityBaseCollection.cs" />
+    <Compile Include="Collections\ListCache.cs" />
+    <Compile Include="Collections\ListOrderEntity.cs" />
+    <Compile Include="Collections\PropertyViewCollection.cs" />
+    <Compile Include="EntityBase.cs" />
+    <Compile Include="Exceptions\AddEntityChildException.cs" />
+    <Compile Include="Exceptions\CloseSessionException.cs" />
+    <Compile Include="Exceptions\EntityManagerException.cs" />
+    <Compile Include="Exceptions\EntityManagerNoConstructorException.cs" />
+    <Compile Include="Exceptions\EntityFieldNotFoundException.cs" />
+    <Compile Include="Exceptions\EntityNoConstructorException.cs" />
+    <Compile Include="Exceptions\EntityNotFoundException.cs" />
+    <Compile Include="Exceptions\EntityNullException.cs" />
+    <Compile Include="Exceptions\EntityParentException.cs" />
+    <Compile Include="Exceptions\EntitySaveOrUpdateException.cs" />
+    <Compile Include="Exceptions\FilterEntityException.cs" />
+    <Compile Include="Exceptions\HQLGeneratorException.cs" />
+    <Compile Include="Exceptions\NotExistFactoryKeyException.cs" />
+    <Compile Include="Exceptions\NotExistSessionKeyException.cs" />
+    <Compile Include="Exceptions\OrderOperationInvalidException.cs" />
+    <Compile Include="Exceptions\RemoveEntityChildException.cs" />
+    <Compile Include="Exceptions\ValidationException.cs" />
+    <Compile Include="Exceptions\Validators\Property.cs" />
+    <Compile Include="Exceptions\Validators\PropertyException.cs" />
+    <Compile Include="Exceptions\Validators\PropertyListException.cs" />
+    <Compile Include="Interfaces\IListDeleteRegister.cs" />
+    <Compile Include="Interfaces\IDeleteManyRegister.cs" />
+    <Compile Include="Interfaces\IListOrderRegister.cs" />
+    <Compile Include="Interfaces\IListFilterRegister.cs" />
+    <Compile Include="Interfaces\IPostRegister.cs" />
+    <Compile Include="Interfaces\INewEntity.cs" />
+    <Compile Include="Interfaces\IDeleteRegister.cs" />
+    <Compile Include="Interfaces\IListRegister.cs" />
+    <Compile Include="Interfaces\IReadRegister.cs" />
+    <Compile Include="Interfaces\IEntityPersistence.cs" />
+    <Compile Include="Interfaces\IValidatorEntity.cs" />
+    <Compile Include="KeyValue.cs" />
+    <Compile Include="ListEntityChild.cs" />
+    <Compile Include="FilterOperation.cs" />
+    <Compile Include="Operacao.cs" />
+    <Compile Include="OrderEntity.cs" />
+    <Compile Include="FilterCriteria.cs" />
+    <Compile Include="FilterEntity.cs" />
+    <Compile Include="ListFilterEntity.cs" />
+    <Compile Include="Interfaces\IBaseRegister.cs" />
+    <Compile Include="Interfaces\IRegister.cs" />
+    <Compile Include="ListEntityManager.cs" />
+    <Compile Include="OrderFiled.cs" />
+    <Compile Include="PropertyView.cs" />
+    <Compile Include="Reflection\EntityReflection.cs" />
+    <Compile Include="RepositoryFactorySessions.cs" />
+    <Compile Include="HQLUtility.cs" />
+    <Compile Include="EntityManager.cs" />
+    <Compile Include="EntityPersistence.cs" />
+    <Compile Include="NHibernateManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValidatorEntity.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

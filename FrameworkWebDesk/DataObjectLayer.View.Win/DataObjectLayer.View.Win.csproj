@@ -1,0 +1,191 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D8C158FD-C00A-4624-8C61-7A047F9FE610}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataObjectLayer.View.Win</RootNamespace>
+    <AssemblyName>DataObjectLayer.View.Win</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DataObjectLayer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DataObjectLayer\bin\Debug\DataObjectLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="DataObjectLayer.Business, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DataObjectLayer.Business\bin\Debug\DataObjectLayer.Business.dll</HintPath>
+    </Reference>
+    <Reference Include="DataObjectLayer.View, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DataObjectLayer.View\bin\Debug\DataObjectLayer.View.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\ButtonDeleteEntity.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\ButtonNewEntity.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\ButtonSaveEntity.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\ComboBoxCustom.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\ComboBoxCustom.Designer.cs">
+      <DependentUpon>ComboBoxCustom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ComboBoxEntity.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\ComboBoxEntity.designer.cs">
+      <DependentUpon>ComboBoxEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DateTimeEntity.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\DateTimeEntity.Designer.cs">
+      <DependentUpon>DateTimeEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LabelEntity.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\MaskedTextBoxNull.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\MaskedTextBoxNull.Designer.cs">
+      <DependentUpon>MaskedTextBoxNull.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Events\Delegates.cs" />
+    <Compile Include="Utilities\MessageBoxConfirmation.cs" />
+    <Compile Include="Controls\DataGridViewEntity.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Utilities\MessageBoxInformation.cs" />
+    <Compile Include="Controls\TextBoxDecimal.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\TextBoxDecimal.designer.cs">
+      <DependentUpon>TextBoxDecimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TextBoxEntity.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\TextBoxEntity.Designer.cs">
+      <DependentUpon>TextBoxEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities\FormFactory.cs" />
+    <Compile Include="FrmBaseRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseRegister.Designer.cs">
+      <DependentUpon>FrmBaseRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities\SetBindingControl.cs" />
+    <Compile Include="UserControls\UctComboBoxButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UctComboBoxButton.Designer.cs">
+      <DependentUpon>UctComboBoxButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UctComboBoxButtonEntity.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UctComboBoxButtonEntity.Designer.cs">
+      <DependentUpon>UctComboBoxButtonEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UctDateTimePicker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UctDateTimePicker.Designer.cs">
+      <DependentUpon>UctDateTimePicker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UctPeriodoDatas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UctPeriodoDatas.Designer.cs">
+      <DependentUpon>UctPeriodoDatas.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\TextBoxDecimal.resx">
+      <DependentUpon>TextBoxDecimal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseRegister.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmBaseRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UctComboBoxButton.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UctComboBoxButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UctComboBoxButtonEntity.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UctComboBoxButtonEntity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UctDateTimePicker.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UctDateTimePicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UctPeriodoDatas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UctPeriodoDatas.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

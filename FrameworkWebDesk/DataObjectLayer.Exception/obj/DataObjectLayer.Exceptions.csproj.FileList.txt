@@ -1,0 +1,5 @@
+bin\Debug\DataObjectLayer.Exceptions.dll
+bin\Debug\DataObjectLayer.Exceptions.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataObjectLayer.Exceptions.dll
+obj\Debug\DataObjectLayer.Exceptions.pdb

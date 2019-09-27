@@ -1,0 +1,20 @@
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.Estoque.SQLServer2005\bin\Debug\DataObjectLayer.Estoque.SQLServer2005.dll.config
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.Estoque.SQLServer2005\bin\Debug\DataObjectLayer.Estoque.SQLServer2005.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.Estoque.SQLServer2005\bin\Debug\DataObjectLayer.Estoque.SQLServer2005.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\DataObjectLayer.Estoque.SQLServer2005.Cliente.hbm.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\DataObjectLayer.Estoque.SQLServer2005.Pessoa.hbm.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\DataObjectLayer.Estoque.SQLServer2005.GrupoProduto.hbm.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\DataObjectLayer.Estoque.SQLServer2005.Produto.hbm.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\DataObjectLayer.Estoque.SQLServer2005.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\DataObjectLayer.Estoque.SQLServer2005.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.Estoque.SQLServer2005\bin\Debug\DataObjectLayer.Estoque.SQLServer2005.dll.config
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.Estoque.SQLServer2005\bin\Debug\DataObjectLayer.Estoque.SQLServer2005.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.Estoque.SQLServer2005\bin\Debug\DataObjectLayer.Estoque.SQLServer2005.pdb
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\DataObjectLayer.Estoque.SQLServer2005.Cliente.hbm.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\DataObjectLayer.Estoque.SQLServer2005.Pessoa.hbm.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\DataObjectLayer.Estoque.SQLServer2005.GrupoProduto.hbm.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\DataObjectLayer.Estoque.SQLServer2005.Produto.hbm.xml
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\DataObjectLayer.Estoque.SQLServer2005.dll
+D:\Documents and Settings\xmep\My Documents\Visual Studio 2005\Projects\Artigo Versão antiga\Estoque\DataObjectLayer.Estoque.SQLServer2005\obj\Debug\DataObjectLayer.Estoque.SQLServer2005.pdb

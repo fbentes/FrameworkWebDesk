@@ -1,0 +1,17 @@
+bin\Debug\DataObjectLayer.Estoque.dll
+bin\Debug\DataObjectLayer.Estoque.pdb
+bin\Debug\DataObjectLayer.Business.dll
+bin\Debug\DataObjectLayer.dll
+bin\Debug\NHibernate.dll
+bin\Debug\Iesi.Collections.dll
+bin\Debug\log4net.dll
+bin\Debug\Castle.DynamicProxy.dll
+bin\Debug\NHibernate.xml
+bin\Debug\Iesi.Collections.xml
+bin\Debug\log4net.xml
+bin\Debug\DataObjectLayer.pdb
+bin\Debug\DataObjectLayer.Business.pdb
+bin\Debug\Castle.DynamicProxy.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataObjectLayer.Estoque.dll
+obj\Debug\DataObjectLayer.Estoque.pdb

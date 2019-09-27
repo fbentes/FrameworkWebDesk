@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="DataObjectLayer.Estoque" assembly="DataObjectLayer.Estoque">
+
+  <class name="Pessoa" table="PESSOA">
+
+    <id name="Id" type="Int32" access="field.lowercase" unsaved-value="-1">
+      <generator class="identity"/>
+    </id>
+    <property name="Nome"     type="String" length="50" not-null="true"/>
+    <property name="Endereco" type="String" length="50" />
+    <property name="Bairro"   type="String" length="50" />
+    <property name="Cidade"   type="String" length="50" />
+    <property name="Uf"       type="String" length="2"  />
+    <property name="Cep"      type="String" length="50" />
+    <property name="Telefone" type="String" length="50" />
+    <property name="Email"    type="String" length="50" />
+
+  </class>
+
+</hibernate-mapping>
